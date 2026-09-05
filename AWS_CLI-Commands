@@ -1,0 +1,2 @@
+aws configure get region		- find the default region
+aws sts get-caller-identity		- find the AWS account ID and user ARN
